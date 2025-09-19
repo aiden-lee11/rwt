@@ -5,7 +5,7 @@
 - this made my mind think of worktrees so essentially the goal here is a cli tool in which we can do something like 
 
 second arg is enforced name 
-`rwt (name) [-l Link] [-a AI tailoring] [-cv Add a cv latex folder]`
+`rwt (name) [-l Link] [-ai AI tailoring] [-cv Add a cv latex folder]`
 
 the link would be an optional param for curling the page data if we want to tailor off of that
 
